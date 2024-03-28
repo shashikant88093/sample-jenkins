@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React from avyay
+          Learn React from Archlynk
         </a>
       </header>
     </div>
